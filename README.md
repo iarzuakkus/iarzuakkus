@@ -1,6 +1,6 @@
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/arzu-akku%C5%9F-bb888b16a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/arzu-akku%C5%9F-bb888b16a/))
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)]([https://kaggle.com](https://www.kaggle.com/iarzuakkus))
 
