@@ -1,8 +1,11 @@
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/arzu-akku%C5%9F-bb888b16a/))
+## Let's Connect!
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)]([https://kaggle.com](https://www.kaggle.com/iarzuakkus))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arzu-akku%C5%9F-bb888b16a/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/iarzuakkus)
+
+
 
 ## 🤖 Work Areas
 ![GenAI](https://img.shields.io/badge/GenAI-blue?style=for-the-badge)
