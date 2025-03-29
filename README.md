@@ -16,5 +16,3 @@
 ![MLOps](https://img.shields.io/badge/MLOps-purple?style=for-the-badge)
 ![CloudComputing](https://img.shields.io/badge/CloudComputing-pink?style=for-the-badge)
 
-## 📬 Contact Us
-For any inquiries, please email us at: [info@example.com](mailto:info@example.com)
