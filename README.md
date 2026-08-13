@@ -59,5 +59,11 @@
 <br>
 
 <p align="center">
+  <img src="https://api.iconify.design/lucide/eye.svg?color=%23a78bfa" width="15" height="15" alt="views" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=iarzuakkus&label=profile%20views&color=7c3aed&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">
   <sub>✦ curious · persistent · always building something ✦</sub>
 </p>
